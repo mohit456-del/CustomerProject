@@ -1,18 +1,18 @@
 # Customer Segmentation using K-Means
 
-📊 Project Overview
+## 📊 Project Overview
 This project uses K-Means clustering to segment customers based on income and spending behavior.
 
-🚀 Features
+## 🚀 Features
 - Elbow Method for optimal clusters
 - K-Means clustering
 - Data visualization
 
-🛠️ Tech Used
+## 🛠️ Tech Used
 Python, Pandas, Matplotlib, Scikit-learn
 
- 📈 Output
+## 📈 Output
 Customers grouped into different segments.
 
-👨‍💻 Author
+## 👨‍💻 Author
 Mohit Sharma
